@@ -10,4 +10,6 @@
     <string name="new_chat">New Chat</string>
     <string name="previous_chats">Previous Chats</string>
     <string name="welcome_user">Welcome, User</string>
+    <string name="chat_title">Chat Title</string>
+    <string name="enter_chat">Enter chat</string>
 </resources>
