@@ -19,7 +19,7 @@
         android:background="@color/white" />
 
     <TextView
-        android:id="@+id/id_welcome"
+        android:id="@+id/NameTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/welcome_user"
@@ -34,7 +34,7 @@
         android:text="@string/new_chat"
         android:backgroundTint="@color/Green"
         android:layout_centerHorizontal="true"
-        android:layout_below="@+id/id_welcome"
+        android:layout_below="@+id/NameTextView"
         app:cornerRadius="6dp"
         android:layout_marginTop="40dp"
         />

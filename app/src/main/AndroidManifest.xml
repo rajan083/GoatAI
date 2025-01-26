@@ -19,6 +19,7 @@
             android:exported="false" />
         <activity
             android:name=".Chat"
+            android:windowSoftInputMode="adjustResize|stateHidden"
             android:exported="false" />
         <activity
             android:name=".Splash"
